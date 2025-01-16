@@ -1,1 +1,1 @@
-# py.script
+# py_script
